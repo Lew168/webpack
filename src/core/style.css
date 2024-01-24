@@ -1,0 +1,117 @@
+.item {  
+    margin: 0;
+    padding: 0;
+  }
+  .swiper-container .item-image {
+    width: 100%;
+    max-height: 410px;
+  }
+  .star-container {
+    width: 280px;
+    background: #D9E0E7;
+    border-radius: 8px;
+    margin-top: 5px;
+    padding: 13px 29px 10px 29px;
+  }
+  .star-container .advert-empty_box {
+    margin-left: -30px;
+  }
+  .advert-banner_wrapper {
+    width: 1200px;
+    max-height: 120px;
+    border-radius: 4px;
+    margin: 0 auto;
+    margin-top: 16px;
+  }
+  .advert-banner_wrapper.recommend-banner {
+    margin: 0 auto;
+  }
+  .advert-banner_wrapper.recommend-banner img {
+    max-height: 120px;
+  }
+  .product-library-list-box-rigth .product-library-list-box-rigth-item-box {
+    position: relative;
+    display: block;
+  }
+  .product-library-list-box-rigth .item-level {
+    position: absolute;
+    width: 39px;
+    height: 18px;
+    background: rgba(255, 255, 255, 0.8)!important;
+    box-shadow: 0px 0px 6px 1px #FFFFFF;
+    border-radius: 2px;
+    right: 8px;
+    top: 20px;
+    font-size: 12px;
+    font-family: PingFangSC-Regular, PingFang SC;
+    font-weight: 400;
+    color: #AD6033;
+    padding-left: 8px;
+  }
+  .product-library-list-box-rigth .product-library-list-box-rigth-title {
+    height: 22px;
+    font-size: 16px;
+    font-family: PingFangSC-Medium, PingFang SC;
+    font-weight: 500;
+    color: #333333;
+    line-height: 22px;
+    margin-bottom: 20px;
+  }
+  .product-library-list-box-rigth .product-library-list-box-rigth-item {
+    width: 222px;
+    height: 210px;
+    background: rgba(35, 176, 149, 0.1);
+    box-shadow: 0px 0px 0px 1px #FFFFFF;
+    border-radius: 4px;
+    border: 1px solid #FFFFFF;
+    padding: 10px;
+  }
+  .product-library-list-box-rigth .product-library-list-box-rigth-item .product-library-list-box-rigth-item-image {
+    width: 200px;
+    height: 121px;
+    border-radius: 4px;
+    overflow: hidden;
+  }
+  .product-library-list-box-rigth .product-library-list-box-rigth-item .product-library-list-box-rigth-item-image img {
+    width: 100%;
+    height: 100%;
+  }
+  .product-library-list-box-rigth .product-library-list-box-rigth-item .product-library-list-box-rigth-item-name {
+    height: 20px;
+    font-size: 14px;
+    font-family: PingFangSC-Regular, PingFang SC;
+    font-weight: 400;
+    color: #333333;
+    line-height: 20px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    margin: 15px 0 8px 0;
+  }
+  .product-library-list-box-rigth .product-library-list-box-rigth-item .product-library-list-box-rigth-item-tips {
+    width: 200px;
+    height: 17px;
+    font-size: 12px;
+    font-family: PingFangSC-Regular, PingFang SC;
+    font-weight: 400;
+    color: #999999;
+    line-height: 17px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+  }
+  .product-library-list-box-rigth .product-library-list-box-rigth-item-price {
+    width: 222px;
+    height: 30px;
+    background: rgba(255, 255, 255, 0.72);
+    border-radius: 4px;
+    border: 1px solid #FFFFFF;
+    backdrop-filter: blur(1px);
+    margin: 6px 0 12px 0;
+    font-size: 12px;
+    font-family: PingFangSC-Regular, PingFang SC;
+    font-weight: 400;
+    color: #E34E4E;
+    line-height: 30px;
+    padding-left: 8px;
+  }
